@@ -1,0 +1,12 @@
+.top {
+  font-size: 100pt;
+}
+.top .fa-twitter {
+  color: #00acee;
+}
+.top fa-instagram {
+  background: linear-gradient(0deg, rgb(64, 93, 230), transparent 75%), linear-gradient(120deg, rgb(225, 48, 108), transparent), linear-gradient(240deg, rgb(252, 175, 69), transparent);
+  background-size: 100% 100%;
+  animation: gradient 5s ease-in-out infinite;
+  background-attachment: fixed;
+}/*# sourceMappingURL=main.css.map */
